@@ -1,0 +1,29 @@
+
+
+body {
+  background-color: gray;
+}
+h1 {
+  color: blue;font-size: 500%;
+  padding: 30px;text-align: center;
+}
+h2 {
+  color: blue;font-size: 300%;
+  padding: 30px;text-align: center;
+}
+p {
+  color: blue;font-size: 200%;
+  border: 5px solid green;
+  padding: 50px;text-align: center;
+  
+}
+table { 
+	  border:5px solid green;
+	  text-align: center;
+	  color: green;font-size: 150%;
+
+}
+th,tr,td {
+	     border:5px solid green;
+
+}
